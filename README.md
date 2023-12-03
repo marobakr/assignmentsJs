@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Course From [Elzero Web School](https://elzero.org/)
 
-[Assignments Solved](https://elzero.org/category/assignments/javascript-bootcamp-assignments/) => [ 120 ] - Assignments ( 27 Topics )
+[Assignments Solved](https://elzero.org/category/assignments/javascript-bootcamp-assignments/) => [ 17 from 120 ] - Assignments ( 2 from 27 Topics )
 
 ![50%](https://progress-bar.dev/5/?title=Solved)
 
