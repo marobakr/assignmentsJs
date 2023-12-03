@@ -4,7 +4,7 @@
 
 [Assignments Solved](https://elzero.org/category/assignments/javascript-bootcamp-assignments/) => [ 120 ] - Assignments ( 27 Topics )
 
-![2%](https://progress-bar.dev/100/?title=Solved)
+![210%](https://progress-bar.dev/10/?title=Solved)
 
 ---
 
