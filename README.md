@@ -1,8 +1,17 @@
+![JavaScript Bootcamp Course](https://elzero.org/js.png)
 
-## Elzero Web School Assignments JavaScript
-- All JavaScript assignments will be resolved from the ElZero Web Scholl site
-- The html file will be attached each week and all you have to do is connect the Javascript file you want to the html file to see the result of the assignment
-- Each file contains its commissioning
-> [!note]  
-> Don't forget to follow the repo after every week
--------------------------
+# JavaScript Bootcamp Course From [Elzero Web School](https://elzero.org/)
+
+[Assignments Solved](https://elzero.org/category/assignments/javascript-bootcamp-assignments/) => [ 120 ] - Assignments ( 27 Topics )
+
+![2%](https://progress-bar.dev/100/?title=Solved)
+
+---
+
+## Assignments
+
+|  Status  |      Topic       |                                                        Assignment                                                         |                                Solution                                |
+| :------: | :--------------: | :-----------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+| `Solved` |   Introduction   | [Assignments For Lessons From [001] To [009]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-001-to-009/) | [Code](https://github.com/marobakr/assignmentsJs/tree/master/week%201) |
+| `Solved` | String & Methods | [Assignments For Lessons From [010] To [017]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-010-to-017/) | [Code](https://github.com/marobakr/assignmentsJs/tree/master/week%202) |
+|          |
