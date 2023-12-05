@@ -18,3 +18,12 @@ if (num3 > num1 && num3 == num2 && typeof num3 !== typeof num2) {
 if (num3 !== num1 && typeof num3 !== typeof num2) {
   assignment3_3.innerHTML += `${num3} Value And Type Is Not The Same As ${num1} And Type Is Not The Same As ${num2}`
 }
+
+var x = 4
+var z = 4
+var y = 4
+if (x != y & z == y) {
+  console.log('yes')
+} else {
+  console.log('no')
+}
