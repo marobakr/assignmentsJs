@@ -13,8 +13,7 @@
 |  Status  |             Topic              |                                                        Assignment                                                         |                                Solution                                 |
 | :------: | :----------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: |
 | `Solved` |           Introduction          | [Assignments For Lessons From [001] To [009]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-001-to-009/) | [Code](https://github.com/marobakr/assignmentsJs/tree/master/Topic%201) |
-| `Solved` |      Data Types & Variables     | [Assignments For Lessons From [010] To [017]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-010-to-017/) | [Code](https://github.com/marobakr/
-assignmentsJs/tree/master/Topic%202) |
+| `Solved` |      Data Types & Variables     | [Assignments For Lessons From [010] To [017]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-010-to-017/) | [Code](https://github.com/marobakr/assignmentsJs/tree/master/Topic%202) |
 | `Solved` |            Operators            | [Assignments For Lessons From [018] To [022]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-010-to-017/) | [Code](https://github.com/marobakr/assignmentsJs/tree/master/Topic%203) |
 | `Solved` |            Numbers              | [Assignments For Lessons From [023] To [026]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-023-to-026/) | [Code](https://github.com/marobakr/assignmentsJs/tree/master/Topic%204) |
 | `Solved` |       Strings And Methods       | [Assignments For Lessons From [027] To [030]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-027-to-030/) | [Code](https://github.com/marobakr/assignmentsJs/tree/master/Topic%205) |
