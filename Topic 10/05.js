@@ -9,6 +9,7 @@ Output
 
 let friends = ['Ahmed', 'Sayed', 'Eman', 'Mahmoud', 'Ameer', 'Osama', 'Sameh'];
 let letter = 'a';
+console.log(letter.length)
 for (i = letter.length; i < friends.length; i++) {
   if (friends[i].startsWith(letter.toUpperCase())) {
     continue;
