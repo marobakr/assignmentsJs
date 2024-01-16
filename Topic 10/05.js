@@ -9,10 +9,9 @@ Output
 
 let friends = ['Ahmed', 'Sayed', 'Eman', 'Mahmoud', 'Ameer', 'Osama', 'Sameh'];
 let letter = 'a';
-console.log(letter.length)
 for (i = letter.length; i < friends.length; i++) {
   if (friends[i].startsWith(letter.toUpperCase())) {
-    continue;
+    friends.splice(friends[i], letter.length);
   }
-  console.log(`${i} => ${friends[i]}`);
+  console.log(`${i} ${friends[i]} `);
 }
